@@ -6,7 +6,7 @@
   "types": "dist/percySnapshot.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/percy/percy-nightwatch.git"
+    "url": "https://github.com/alubchuk/percy-nightwatch.git"
   },
   "keywords": [
     "nightwatch",
